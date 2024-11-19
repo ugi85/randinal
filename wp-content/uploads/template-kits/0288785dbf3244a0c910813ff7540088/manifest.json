@@ -1,0 +1,1525 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Pilostone - Template Kit for Construction Service",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/pilostone\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/pilostone\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/pilostone\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Project",
+            "screenshot": "screenshots\/project.jpg",
+            "source": "templates\/project.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/pilostone\/template-kit\/project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Careers",
+            "screenshot": "screenshots\/careers.jpg",
+            "source": "templates\/careers.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/pilostone\/template-kit\/careers\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/pilostone\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/pilostone\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/pilostone\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/pilostone\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pilostone V1 - 404 Page",
+            "screenshot": "screenshots\/pilostone-v1-404-page.jpg",
+            "source": "templates\/pilostone-v1-404-page.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/pilostone\/?elementor_library=pilostone-v1-404-page",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pilostone V1 - Single Blog",
+            "screenshot": "screenshots\/pilostone-v1-single-blog.jpg",
+            "source": "templates\/pilostone-v1-single-blog.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/pilostone\/?elementor_library=pilostone-v1-single-blog",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pilostone V1 - Blog",
+            "screenshot": "screenshots\/pilostone-v1-blog.jpg",
+            "source": "templates\/pilostone-v1-blog.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/pilostone\/?elementor_library=pilostone-v1-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pilostone V1 - Footer",
+            "screenshot": "screenshots\/pilostone-v1-footer.jpg",
+            "source": "templates\/pilostone-v1-footer.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/pilostone\/?elementor_library=pilostone-v1-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pilostone V1 - Header",
+            "screenshot": "screenshots\/pilostone-v1-header.jpg",
+            "source": "templates\/pilostone-v1-header.json",
+            "preview_url": "https:\/\/newkit.moxcreative.com\/pilostone\/?elementor_library=pilostone-v1-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.6.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Envato Elements",
+            "version": "2.0.11",
+            "file": "envato-elements\/envato-elements.php",
+            "author": "Envato"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.5",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.7.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "qyzo7tdsvqs-e1660991203483.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/qyzo7tdsvqs-e1660991203483-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 170199,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/qyzo7TDSVQs"
+        },
+        {
+            "filename": "Asset-2-100-1-e1660991420888.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/Asset-2-100-1-e1660991327103-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 238997,
+            "dimensions": [
+                720,
+                720
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/architecture-background-design_1003664.htm#&position=11&from_view=undefined"
+        },
+        {
+            "filename": "Team_7.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/Team_7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 154073,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/photo-of-handsome-european-male-looking-straight-a-HWEQGL8"
+        },
+        {
+            "filename": "BG-Worldmap-e1660991301846.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/BG-Worldmap-800x490.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 302927,
+            "dimensions": [
+                640,
+                392
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-dotted-world-map-C3EU3G7"
+        },
+        {
+            "filename": "building-construction-worker-site-with-architect-e1660991372522.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/building-construction-worker-site-with-architect-e1660991372522-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 77514,
+            "dimensions": [
+                940,
+                627
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/building-construction-worker-site-with-architect_19123084.htm#&position=3&from_view=undefined"
+        },
+        {
+            "filename": "logoipsum-216-1.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/logoipsum-216-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 4104,
+            "dimensions": [
+                276,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-2.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/logoipsum-logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 3506,
+            "dimensions": [
+                264,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-5.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/logoipsum-logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 4210,
+            "dimensions": [
+                231,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-8.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/logoipsum-logo-8.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 5307,
+            "dimensions": [
+                327,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-10.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/logoipsum-logo-10.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 3506,
+            "dimensions": [
+                272,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-29.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/logoipsum-logo-29.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 6207,
+            "dimensions": [
+                245,
+                70
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "91aqt9p4mo8.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/91aqt9p4mo8-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 293863,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/91AQt9p4Mo8"
+        },
+        {
+            "filename": "excavator-action-e1660991474337.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/excavator-action-800x542.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/pilostone-v1-404-page.json",
+                    "name": "Pilostone V1 - 404 Page"
+                }
+            ],
+            "filesize": 60160,
+            "dimensions": [
+                720,
+                487
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/excavator-action_1194025.htm#&position=21&from_view=undefined"
+        },
+        {
+            "filename": "eszrbtkq_f8.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/eszrbtkq_f8-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 190178,
+            "dimensions": [
+                960,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/ESZRBtkQ_f8"
+        },
+        {
+            "filename": "construction-concept-e1660991507430.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/construction-concept-e1660991507430-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 71527,
+            "dimensions": [
+                940,
+                627
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/construction-concept_5633870.htm#&position=37&from_view=undefined"
+        },
+        {
+            "filename": "gray-internal-structure-building-e1660991536836.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/gray-internal-structure-building-e1660991536836-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 110420,
+            "dimensions": [
+                940,
+                627
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/gray-internal-structure-building_13909329.htm#&position=19&from_view=undefined"
+        },
+        {
+            "filename": "qdaaasrzhdk.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/qdaaasrzhdk-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 123948,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/QdAAasrZhdk"
+        },
+        {
+            "filename": "688fna1pwoq.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/688fna1pwoq-800x538.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 98823,
+            "dimensions": [
+                1280,
+                861
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/688Fna1pwOQ"
+        },
+        {
+            "filename": "gvpcevqbxm4.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/gvpcevqbxm4-800x557.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 178404,
+            "dimensions": [
+                1280,
+                890
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/GvPceVqbxm4"
+        },
+        {
+            "filename": "xjosjtk8u-c.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/xjosjtk8u-c-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 147486,
+            "dimensions": [
+                1280,
+                960
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/xjosJTK8u-c"
+        },
+        {
+            "filename": "three-men-with-drawing-discussing-construction-site-e1660991589323.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/three-men-with-drawing-discussing-construction-site-e1660991589323-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 79803,
+            "dimensions": [
+                940,
+                625
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/three-men-with-drawing-discussing-construction-site_21414719.htm#&position=17&from_view=undefined"
+        },
+        {
+            "filename": "discussing-project-e1660991615705.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/discussing-project-e1660991615705-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 80292,
+            "dimensions": [
+                940,
+                627
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/discussing-project_5633749.htm#&position=39&from_view=undefined"
+        },
+        {
+            "filename": "happy-workers-construction-site-young-civil-engineer-manager-architects-handshaking-construction-site-looking-construction-phase-cooperation-teamwork-concept-e1660991642181.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/happy-workers-construction-site-young-civil-engineer-manager-architects-handshaking-construction-site-looking-construction-phase-cooperation-teamwork-concept-e1660991642181-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 70226,
+            "dimensions": [
+                940,
+                628
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/happy-workers-construction-site-young-civil-engineer-manager-architects-handshaking-construction-site-looking-construction-phase-cooperation-teamwork-concept_26205206.htm#&position=7&from_view=undefined"
+        },
+        {
+            "filename": "architectural-structure.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/architectural-structure.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 30080,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/architectural-structure_24657"
+        },
+        {
+            "filename": "modern-house.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/modern-house.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 15335,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/modern-house_63971"
+        },
+        {
+            "filename": "buildings.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/buildings.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 21815,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/buildings_58061"
+        },
+        {
+            "filename": "building.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/building.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 5285,
+            "dimensions": [
+                256,
+                256
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/building_3587977"
+        },
+        {
+            "filename": "smart-asian-engineer-manager-with-safety-uniform-checking-site-construction-with-steel-concrete-sturcture-background-e1660991688773.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/smart-asian-engineer-manager-with-safety-uniform-checking-site-construction-with-steel-concrete-sturcture-background-e1660991688773-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 75806,
+            "dimensions": [
+                940,
+                627
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/smart-asian-engineer-manager-with-safety-uniform-checking-site-construction-with-steel-concrete-sturcture-background_25129410.htm#page=2&position=3&from_view=undefined"
+        },
+        {
+            "filename": "vlpum5wp5z0.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/vlpum5wp5z0-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 151277,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/VLPUm5wP5Z0"
+        },
+        {
+            "filename": "two-successful-entrepreneur-helmet-with-project-laptop-new-buildings-stay-near-glass-roof-e1660991717850.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/two-successful-entrepreneur-helmet-with-project-laptop-new-buildings-stay-near-glass-roof-e1660991717850-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 74810,
+            "dimensions": [
+                940,
+                627
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/two-successful-entrepreneur-helmet-with-project-laptop-new-buildings-stay-near-glass-roof_18016992.htm#&position=35&from_view=undefined"
+        },
+        {
+            "filename": "15276013_5570863.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/15276013_5570863-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 150086,
+            "dimensions": [
+                3000,
+                2000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/abstract-background-with-squares_15276013.htm#&position=9&from_view=undefined"
+        },
+        {
+            "filename": "Team_1.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/Team_1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 138262,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/positive-portrait-of-woman-doctor-with-stethoscope-N3HF8N7"
+        },
+        {
+            "filename": "Team_5.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/Team_5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 168173,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-millennial-guy-with-smartphone-KMYQCV2"
+        },
+        {
+            "filename": "wm8opod-mde.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/wm8opod-mde-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 162425,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Wm8opOd-MDE"
+        },
+        {
+            "filename": "mrxhnzxeyt8-e1660991746220.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/mrxhnzxeyt8-e1660991746220-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 147979,
+            "dimensions": [
+                940,
+                627
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/mRxHNzxeYt8"
+        },
+        {
+            "filename": "lcj9ioli-ue.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/lcj9ioli-ue-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 92008,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/LCJ9iOli-uE"
+        },
+        {
+            "filename": "tptxzd9moo.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/tptxzd9moo-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 196362,
+            "dimensions": [
+                1280,
+                960
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/_TPTXZd9mOo"
+        },
+        {
+            "filename": "two-colleagues-factory-e1660991777403.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/two-colleagues-factory-e1660991777403-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 79237,
+            "dimensions": [
+                940,
+                627
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/two-colleagues-factory_4410803.htm#&position=13&from_view=undefined"
+        },
+        {
+            "filename": "16264590_v748-toon-75.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/16264590_v748-toon-75-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                }
+            ],
+            "filesize": 23780,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/white-seamless-weave-pattern-background-vector_16264590.htm#&position=29&from_view=undefined"
+        },
+        {
+            "filename": "builder-orange-helmet-against-industrial.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/builder-orange-helmet-against-industrial-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 108380,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/builder-orange-helmet-against-industrial_10718286.htm#&position=15&from_view=undefined"
+        },
+        {
+            "filename": "T6.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/T6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 140158,
+            "dimensions": [
+                451,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/selective-focus-of-happy-receptionist-showing-thum-APXUH32"
+        },
+        {
+            "filename": "T5.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/T5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 195620,
+            "dimensions": [
+                451,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/adult-chambermaid-and-hotel-manager-cleaning-the-r-CTYW6T6"
+        },
+        {
+            "filename": "T8.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/T8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 159469,
+            "dimensions": [
+                451,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/shop-assistant-receptionist-writing-while-standing-L4UTZ67"
+        },
+        {
+            "filename": "T2.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/T2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 163827,
+            "dimensions": [
+                451,
+                451
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5RNE46J"
+        },
+        {
+            "filename": "T1.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/T1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 176980,
+            "dimensions": [
+                451,
+                451
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/worker-wearing-hardhat-4NHKE5F"
+        },
+        {
+            "filename": "T3.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/T3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 147875,
+            "dimensions": [
+                451,
+                451
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-worker-L5KJCLX"
+        },
+        {
+            "filename": "T4.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/T4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 178415,
+            "dimensions": [
+                451,
+                451
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/worker-of-warehouse-TW9T6R8"
+        },
+        {
+            "filename": "construction-site-silhouettes-e1660991833538.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/construction-site-silhouettes-e1660991833538-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/pilostone-v1-single-blog.json",
+                    "name": "Pilostone V1 - Single Blog"
+                }
+            ],
+            "filesize": 115319,
+            "dimensions": [
+                940,
+                627
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/construction-site-silhouettes_1243080.htm#page=2&position=1&from_view=undefined"
+        },
+        {
+            "filename": "construction-silhouette-e1660991851744.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/construction-silhouette-e1660991851744-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pilostone-v1-single-blog.json",
+                    "name": "Pilostone V1 - Single Blog"
+                },
+                {
+                    "source": "templates\/pilostone-v1-blog.json",
+                    "name": "Pilostone V1 - Blog"
+                }
+            ],
+            "filesize": 108423,
+            "dimensions": [
+                940,
+                628
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/construction-silhouette_4291509.htm#&position=31&from_view=undefined"
+        },
+        {
+            "filename": "T7.jpg",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/T7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pilostone-v1-single-blog.json",
+                    "name": "Pilostone V1 - Single Blog"
+                }
+            ],
+            "filesize": 184393,
+            "dimensions": [
+                450,
+                451
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-shot-of-happy-black-man-smiles-happily-dr-2PMYKCW"
+        },
+        {
+            "filename": "Asset-2-100.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/Asset-2-100-800x617.png",
+            "templates": [
+                {
+                    "source": "templates\/pilostone-v1-footer.json",
+                    "name": "Pilostone V1 - Footer"
+                }
+            ],
+            "filesize": 120080,
+            "dimensions": [
+                1377,
+                1062
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/3d-blueprint-building-project_5771323.htm#&position=33&from_view=undefined"
+        },
+        {
+            "filename": "Logo_Pilostone_white.png",
+            "thumbnail_url": "https:\/\/newkit.moxcreative.com\/pilostone\/wp-content\/uploads\/sites\/18\/2022\/08\/Logo_Pilostone_white.png",
+            "templates": [
+                {
+                    "source": "templates\/pilostone-v1-footer.json",
+                    "name": "Pilostone V1 - Footer"
+                },
+                {
+                    "source": "templates\/pilostone-v1-header.json",
+                    "name": "Pilostone V1 - Header"
+                }
+            ],
+            "filesize": 6452,
+            "dimensions": [
+                557,
+                136
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
